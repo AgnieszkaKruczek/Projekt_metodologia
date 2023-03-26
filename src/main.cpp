@@ -14,6 +14,8 @@ float b;
 cin >> b;
 cout << "The result of addition is " << add(a,b) << endl;
 cout << "The result of substraction is " << sub(a,b) << endl;
+cout << "The result of multiplication is " << multi(a,b) << endl;
+cout << "The result of division is " << div(a,b) << endl;
 
 return 0;
 }

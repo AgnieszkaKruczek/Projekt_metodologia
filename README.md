@@ -1,3 +1,3 @@
 # Projekt_metodologia
 
-Completeness for grade: <!-- TODO: 3, 4 or 5 -->
+Completeness for grade: 4.0
